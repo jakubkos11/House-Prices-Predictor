@@ -1,0 +1,10 @@
+pandas
+seaborn  #used in file with visualizations
+matplotlib
+xgboost
+lightgbm
+optuna
+scipy
+numpy
+xgboost
+scikit-learn
