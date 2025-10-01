@@ -13,17 +13,16 @@ This project is a comprehensive solution for the Kaggle competition "House Price
 
 The data comes directly from the Kaggle competition and is available [at this link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). It includes a wide range of features describing various aspects of residential homes.
 
-## 📁 Project Structure
-
-The repository is organized as follows:
+```
 ├── data/                  # Raw train.csv and test.csv files
 ├── lasso-model/           # Saved Lasso Regression model
 ├── lightgbm-model/        # Saved LightGBM model
 ├── random-forest-model/   # Saved Random Forest model
-├── xgboost-model/         # Saved, best-performing XGBoost model
+├── xgboost-model/         # Saved XGBoost model
 ├── data_description.txt   # Description of each feature in the dataset
 ├── requirements.txt       # List of Python dependencies to install
 └── visualizations.ipynb   # Jupyter Notebook with EDA, feature engineering, and modeling
+```
 
 ## ⚙️ Methodology
 
