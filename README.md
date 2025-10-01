@@ -43,7 +43,7 @@ The following regression algorithms were implemented and evaluated:
 * Lasso Regression
 * Random Forest Regressor
 * XGBoost (eXtreme Gradient Boosting)
-* **LightGBM (Light Gradient Boosting Machine)**
+* LightGBM (Light Gradient Boosting Machine)
 
 ## 📊 Results
 
